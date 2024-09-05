@@ -1,1 +1,5 @@
 threads: https://drive.google.com/file/d/1f5lJPScKSh7P3GzodI7958RHaKGKlgBp/view?usp=sharing
+preforms: https://drive.google.com/file/d/1kV9CFnimR6MTtFUZDxFgJACk2J6vr70y/view?usp=sharing
+caps: https://drive.google.com/file/d/1zXHMu3QW-rCRF-eTN7aZ8mAxRdwVq1W3/view?usp=sharing
+caps_v1: https://drive.google.com/file/d/1aGUJTQCKKwnP6U2GNCHBLbbl1pAMaeEm/view?usp=sharing
+caps_v2: https://drive.google.com/file/d/1lQ1ERS4GOO3M__LPwjAx-vLQUaCuDwI3/view?usp=sharing
